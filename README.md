@@ -1,1 +1,0 @@
-Курс geakBrains по Соверменному JavaScript. 
